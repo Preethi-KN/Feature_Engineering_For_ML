@@ -1,9 +1,5 @@
 # 🎯 Outlier Detection and Removal in Machine Learning
 
-> A comprehensive guide to identifying, understanding, and handling outliers in datasets for robust and accurate ML model performance.
-
-📖 **Reference:** [GeeksforGeeks — How to Detect Outliers in Machine Learning](https://www.geeksforgeeks.org/machine-learning/machine-learning-outlier/)
-
 ---
 
 ## 📌 Table of Contents
