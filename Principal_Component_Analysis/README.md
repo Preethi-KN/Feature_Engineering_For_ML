@@ -72,5 +72,7 @@ print(pca.explained_variance_ratio_)
 ## Conclusion
 PCA is a powerful dimensionality reduction technique that preserves the most important patterns in data while reducing complexity, making datasets easier to analyze, visualize, and model.
 
+Code Example and Visualization:
+https://www.kaggle.com/code/preethikakv/pca-demo/notebook
 Reference:
 https://www.geeksforgeeks.org/data-analysis/principal-component-analysis-pca/
